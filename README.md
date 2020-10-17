@@ -1,7 +1,6 @@
-﻿# OS-project-clustering-algorithms
-        --------------------------------------------------------------------------------
-  #                             CLUSTERING PACKAGE 
-	--------------------------------------------------------------------------------
+## OS-project-clustering-algorithms
+
+  ### CLUSTERING PACKAGE
      
 	This application is implematation of clustering package which include :
 	
